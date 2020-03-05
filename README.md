@@ -11,8 +11,8 @@ const users = [
     },
     {
         "id":2,
-        "name":"Pete",
-        "email":"157@gmail.com"
+        "name":"Jetsadaporn Dachphol",
+        "email":"pizzazazaza99@gmail.com"
     }
     
 ]
